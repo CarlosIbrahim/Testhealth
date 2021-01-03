@@ -1,8 +1,1 @@
-numpy
-pandas
-matplotlib.pyplot
-seaborn
-datetime
-streamlit
-
-
+opencv-python

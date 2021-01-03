@@ -4,4 +4,4 @@ pandas==1.0.1
 numpy==1.18.1
 seaborn==0.10.0
 plotly==4.14.1
-pip install xlrd
+Install xlrd >= 1.0.0
